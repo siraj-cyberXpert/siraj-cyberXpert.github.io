@@ -8,12 +8,13 @@
   box-sizing: border-box;
 }
 
+/* BODY */
 body {
   font-family: 'Poppins', sans-serif;
   background: #0f172a;
   color: #e5e7eb;
   line-height: 1.6;
-  transition: background 0.3s, color 0.3s;
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
 /* HERO */
@@ -29,7 +30,7 @@ body {
 
 .hero-title {
   font-size: 3rem;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .hero-title span {
@@ -61,8 +62,23 @@ body {
 
 .section p {
   max-width: 700px;
-  margin: 10px auto;
+  margin: 12px auto;
   opacity: 0.9;
+}
+
+/* WHAT I DO */
+.what-i-do .do-item {
+  background: #1e293b;
+  padding: 12px 20px;
+  border-radius: 10px;
+  margin: 10px auto;
+  max-width: 520px;
+  transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.what-i-do .do-item:hover {
+  transform: translateX(10px);
+  background: #2563eb;
 }
 
 /* SKILLS */
@@ -119,11 +135,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* CONTACT */
-.section a {
-  font-weight: 500;
-}
-
 /* DARK / LIGHT MODE */
 body.light {
   background: #f8fafc;
@@ -134,8 +145,9 @@ body.light .section h2 {
   color: #2563eb;
 }
 
+body.light .skills div,
 body.light .project-card,
-body.light .skills div {
+body.light .what-i-do .do-item {
   background: #e2e8f0;
 }
 
@@ -151,5 +163,9 @@ body.light a {
 
   .section {
     padding: 60px 15px;
+  }
+
+  .what-i-do .do-item {
+    max-width: 90%;
   }
 }

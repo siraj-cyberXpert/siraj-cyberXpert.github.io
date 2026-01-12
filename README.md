@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Siraj
 
 🎓 **BSIT Student (2023 – 2027)**  
-💻 **Frontend Developer | Freelancer**  
+💻 **Frontend Developer | Freelancer (Fiverr)**  
 🌐 **Building modern, animated & user-focused web experiences**
 
 ---
 
 ## 🚀 About Me
-I am a Bachelor of Science in Information Technology (BSIT) student with a strong interest in web development and modern UI/UX design.
+I am a Bachelor of Science in Information Technology (BSIT) student with a strong passion for frontend web development and modern UI/UX design.
 
-I specialize in creating **responsive, animated, and professional websites** using HTML, CSS, JavaScript, and modern animation techniques.  
-Alongside my studies, I work as a **freelancer on Fiverr**, providing reliable and quality-focused digital solutions.
+I specialize in creating **responsive, animated, and professional websites** using clean code and modern animation techniques (GSAP).  
+Alongside my studies, I work as a **freelancer on Fiverr**, helping clients turn ideas into high-quality digital solutions.
 
-I believe in continuous learning, clear communication, and delivering results that meet client expectations.
+I believe in continuous learning, clean design, and delivering work that meets professional standards.
 
 ---
 
@@ -28,13 +28,22 @@ I believe in continuous learning, clear communication, and delivering results th
 
 ## 📂 Featured Project
 ### 🎨 Animated Portfolio Website
-A modern personal portfolio website featuring:
+A fully animated personal portfolio featuring:
 - Smooth scroll animations  
-- Dark / Light mode  
-- Responsive layout  
+- Dark / Light mode toggle  
+- Responsive & modern UI  
+- Clean and structured code  
 
 🔗 **Live Portfolio:**  
 https://siraj-cyberXpert.github.io
+
+---
+
+## 💼 What I Do
+- Modern & responsive website development  
+- Clean and animated user interfaces  
+- Personal & portfolio websites  
+- Technical assistance & digital solutions  
 
 ---
 
@@ -46,9 +55,9 @@ https://siraj-cyberXpert.github.io
 https://github.com/siraj-cyberXpert  
 
 🧑‍💻 **Fiverr:**  
-Available for freelance work via Fiverr (contact through the email above)
+Available for freelance work (contact via Fiverr or email)
 
 ---
 
 ⭐ Feel free to explore my repositories and projects.  
-I’m open to freelance work, collaborations, and learning opportunities.
+I am open to freelance work, collaborations, and learning opportunities.

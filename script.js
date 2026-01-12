@@ -1,7 +1,9 @@
-// Register ScrollTrigger
+// Register GSAP plugin
 gsap.registerPlugin(ScrollTrigger);
 
-// Hero animations
+/* =====================
+   HERO ANIMATIONS
+===================== */
 gsap.from(".hero-title", {
   y: -50,
   opacity: 0,
@@ -25,7 +27,9 @@ gsap.from(".hero-desc", {
   ease: "power3.out"
 });
 
-// Scroll animations for sections
+/* =====================
+   SECTION SCROLL ANIMATION
+===================== */
 gsap.utils.toArray(".section").forEach(section => {
   gsap.from(section, {
     scrollTrigger: {
@@ -40,7 +44,24 @@ gsap.utils.toArray(".section").forEach(section => {
   });
 });
 
-// Dark / Light Mode Toggle
+/* =====================
+   WHAT I DO TEXT ANIMATION
+===================== */
+gsap.from(".do-item", {
+  scrollTrigger: {
+    trigger: ".what-i-do",
+    start: "top 80%"
+  },
+  opacity: 0,
+  x: -40,
+  duration: 0.8,
+  stagger: 0.25,
+  ease: "power2.out"
+});
+
+/* =====================
+   DARK / LIGHT MODE TOGGLE
+===================== */
 const toggleBtn = document.getElementById("themeToggle");
 
 toggleBtn.addEventListener("click", () => {

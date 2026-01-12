@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #fff;
+  text-align: center;
+}
+
+.hero {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero span {
+  color: #38bdf8;
+}
+
+.section {
+  padding: 60px 20px;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.skills div {
+  background: #1e293b;
+  padding: 15px 20px;
+  border-radius: 8px;
+}

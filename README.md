@@ -7,11 +7,12 @@
 ---
 
 ## 🚀 About Me
-I am a Bachelor of Science in Information Technology (BSIT) student with a strong passion for web development and modern UI/UX design.
+I am a Bachelor of Science in Information Technology (BSIT) student with a strong interest in web development and modern UI/UX design.
 
-I specialize in creating **responsive, animated, and professional websites** using clean code and modern tools. Alongside my studies, I work as a freelancer, helping clients bring their ideas to life through effective digital solutions.
+I specialize in creating **responsive, animated, and professional websites** using HTML, CSS, JavaScript, and modern animation techniques.  
+Alongside my studies, I work as a **freelancer on Fiverr**, providing reliable and quality-focused digital solutions.
 
-I believe in continuous learning, clear communication, and delivering quality work that meets real-world standards.
+I believe in continuous learning, clear communication, and delivering results that meet client expectations.
 
 ---
 
@@ -27,8 +28,10 @@ I believe in continuous learning, clear communication, and delivering quality wo
 
 ## 📂 Featured Project
 ### 🎨 Animated Portfolio Website
-A modern personal portfolio built with HTML, CSS, JavaScript, and GSAP.  
-Includes smooth scroll animations, dark/light mode, and responsive design.
+A modern personal portfolio website featuring:
+- Smooth scroll animations  
+- Dark / Light mode  
+- Responsive layout  
 
 🔗 **Live Portfolio:**  
 https://siraj-cyberXpert.github.io
@@ -36,10 +39,16 @@ https://siraj-cyberXpert.github.io
 ---
 
 ## 🤝 Let’s Connect
-📧 **Email:** duniyanaraz@gmail.com  
-🐙 **GitHub:** https://github.com/siraj-cyberXpert  
+📧 **Email (Fiverr & Professional Contact):**  
+**duniyanaraz@gmail.com**
+
+🐙 **GitHub:**  
+https://github.com/siraj-cyberXpert  
+
+🧑‍💻 **Fiverr:**  
+Available for freelance work via Fiverr (contact through the email above)
 
 ---
 
 ⭐ Feel free to explore my repositories and projects.  
-I’m always open to learning opportunities, collaborations, and freelance work.
+I’m open to freelance work, collaborations, and learning opportunities.
